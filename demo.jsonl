@@ -1,0 +1,5 @@
+{"id": 1, "level": "info", "duration_ms": 12, "message": "started"}
+{"id": 2, "level": "error", "duration_ms": 843, "message": "request timeout after 30s"}
+{"id": 3, "level": "info", "duration_ms": 30, "message": "ok"}
+{"id": 4, "level": "error", "duration_ms": 210, "message": "timeout on upstream"}
+oops not json
